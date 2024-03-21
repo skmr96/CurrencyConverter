@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="editTextFromCurrValueHint"><font size="12">Enter Currency Value here</font></string>
+    <string name="editTextToCurrValueHint"><font size="12">Converted Value</font></string>
+    <string name="CONNECT_TO_INTERNET_AND_RESTART_APP">Please Connect to Internet and Restart the App</string>
+    <string name="WELCOME_MSG">Welcome to Currency Converter</string>
+    <string name="NO_DATA">No Data to Share</string>
+    <string name="ON_DATE">Hereafter Results will be On Date :</string>
+    <string name="TODAY">Hereafter Results will be On : Today</string>
+    <string name="CONNECT_TO_INTERNET">Please Connect to Internet to Continue</string>
+    <string name="FROM_AND_TO_CANNOT_BE_EQUAL">From and To cannot be Equal</string>
+    <string name="CHANGE_CURRENCY_IN_FROM_OR_TO">Please change From or To Currency</string>
+    <string name="ENTER_FROM_VALUE">Please Enter From Value to Continue</string>
+</resources>
